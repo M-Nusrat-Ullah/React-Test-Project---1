@@ -1,0 +1,18 @@
+.logo1 {
+  position: absolute;
+  box-sizing: border-box;
+  border: 1px solid #000000;
+  width: 64px;
+  height: 42px;
+  margin-top: 41px;
+  margin-left: 200px;
+}
+
+.imageLogo {
+  margin-top: 11px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+  margin-right: 16px;
+  width: 36px;
+  height: 19px;
+}

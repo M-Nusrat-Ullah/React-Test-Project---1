@@ -1,0 +1,50 @@
+.contentFooter {
+  position: absolute;
+  top: 701px;
+  left: 200px;
+  width: 1074px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+  font-style: normal;
+}
+
+.contentFooter button {
+  box-sizing: border-box;
+  width: 148px;
+  height: 40px;
+  border: 1px solid #000000;
+  border-radius: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentFooter h4 {
+  font-weight: 400;
+  color: #444444;
+}
+
+.contentFooter button h4 {
+  width: 104px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #1e1e1e;
+}
+
+.contentDescription {
+  color: #444444;
+  font-weight: 400;
+}
+
+.contentFooter hr {
+  width: 154px;
+  height: 4px;
+  background: #ff8a00;
+  border-radius: 10px;
+}
